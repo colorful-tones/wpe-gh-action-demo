@@ -1,0 +1,30 @@
+#---------------------------
+# Themes
+#---------------------------
+/themes/*
+!/themes/qorp-theme
+
+#---------------------------
+# Plugins
+# Check out WPE's Smart
+# Plugin Manager (SMP)
+#---------------------------
+# Ignore all plugins
+/plugins/*
+!/plugins/qorp-plugin
+
+#---------------------------
+# MU plugins: these are
+# managed by the platform.
+#---------------------------
+/mu-plugins/
+
+#---------------------------
+# Uploads directory
+#---------------------------
+/uploads/
+
+#---------------------------
+# Upgrade files
+#---------------------------
+/upgrade/
